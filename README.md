@@ -3,13 +3,13 @@
 Mi stack tecnológico es:
 
 ## ⚛️ Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,redux,html,css,javascript,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,rxjs,react,redux,vite,html,css,javascript,ts,scss,bootstrap)](https://skillicons.dev)
 
 ## 🛢 Backend
 [![My Skills](https://skillicons.dev/icons?i=php,symfony,laravel,mysql,sequelize,nodejs,express)](https://skillicons.dev)
 
 ## 🚀 Otros
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,postman)](https://skillicons.dev)
 
 ### Puedes conocerme mejor visitando mi perfil de linkedin
 
